@@ -1,6 +1,6 @@
 ### Install Dependencies
 
-`yarn`
+`npm install`
 
 ### Add Your Vapi Public Key
 
@@ -8,4 +8,4 @@ Open `src/App.jsx` and replace the placeholder public key with your own:
 
 ### Start
 
-`yarn start`
+`npm start`
